@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a7d61ac062dd58348937c6c96faad697
+timeCreated: 1523326041
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {fileID: 4994010611971522, guid: ba29dee876aa61e489e0a62376d0f278, type: 2}
+  - player: {fileID: 1285247289132678, guid: ba29dee876aa61e489e0a62376d0f278, type: 2}
+  - muzzleFlash: {fileID: 198828982386847312, guid: 3c0bf93ad4e300e4b95a5eea87126409,
+      type: 2}
+  - impactEffect: {fileID: 1356574308699774, guid: dc333988ffbe6074689d03844bedfd37,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
